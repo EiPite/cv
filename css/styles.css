@@ -30,16 +30,16 @@ ul{
     text-align: center;
     padding: 0;
     margin: 0;
-    list-style-image: url("C:/Users/Daury P/Desktop/Proyectos/Web Development/HTML - Personal Site/images/list.png");
+    list-style-image: url("images/list.png");
   }
 
 li{
-    list-style-image: url("C:/Users/Daury P/Desktop/Proyectos/Web Development/HTML - Personal Site/images/list.png");
+    list-style-image: url("images/list.png");
 
 }
 
 ol{
     display: table;
     margin: 0 auto;
-    list-style-image: url("C:/Users/Daury P/Desktop/Proyectos/Web Development/HTML - Personal Site/images/list.png");
+    list-style-image: url("images/list.png");
 }
