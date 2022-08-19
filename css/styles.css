@@ -1,0 +1,45 @@
+body{
+    background-color: #FCF8E8;
+    color: #94B49F;
+    text-align: center;   
+}
+
+a:link, a:visited{
+    color:  #DF7861;
+    text-decoration: none;
+}
+
+h1, h2, h3, strong{
+    color: #76549A
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: lightgrey;
+    border-width: 10px;
+    width: 5%;
+}
+
+table{
+    margin: auto;
+    text-align: left;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    list-style-image: url("C:/Users/Daury P/Desktop/Proyectos/Web Development/HTML - Personal Site/images/list.png");
+  }
+
+li{
+    list-style-image: url("C:/Users/Daury P/Desktop/Proyectos/Web Development/HTML - Personal Site/images/list.png");
+
+}
+
+ol{
+    display: table;
+    margin: 0 auto;
+    list-style-image: url("C:/Users/Daury P/Desktop/Proyectos/Web Development/HTML - Personal Site/images/list.png");
+}
